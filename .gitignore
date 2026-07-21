@@ -1,0 +1,53 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Build output
+dist/
+**/dist/
+build/
+**/build/
+out/
+**/out/
+
+# Electron packaging artifacts
+release/
+**/release/
+*.asar
+*.dmg
+*.exe
+*.AppImage
+*.deb
+*.rpm
+
+# Runtime logs and local data
+*.log
+logs/
+**/logs/
+.cache/
+**/.cache/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Test and coverage output
+coverage/
+**/coverage/
+.nyc_output/
+
+# Local editor and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+**/tmp/
+

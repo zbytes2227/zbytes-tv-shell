@@ -1,0 +1,130 @@
+[
+  {
+    "id": "youtube",
+    "name": "YouTube",
+    "url": "https://www.youtube.com/tv",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36",
+    "icon": "Youtube",
+    "color": "#FF0000"
+  },
+  {
+    "id": "jiohotstar",
+    "name": "JioHotstar",
+    "url": "https://livingroom.hotstar.com/?platform=webos&customPlatform=true",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.157 Safari/537.36",
+    "icon": "Tv",
+    "color": "#1F80E0"
+  },
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "url": "https://www.netflix.com",
+    "icon": "Clapperboard",
+    "color": "#E50914"
+  },
+  {
+    "id": "primevideo",
+    "name": "Prime Video",
+    "url": "https://www.primevideo.com",
+    "icon": "PlayCircle",
+    "color": "#00A8E1"
+  },
+  {
+    "id": "sonyliv",
+    "name": "Sony LIV",
+    "url": "https://www.sonyliv.com",
+    "icon": "MonitorPlay",
+    "color": "#8A2BE2"
+  },
+  {
+    "id": "zee5",
+    "name": "ZEE5",
+    "url": "https://www.zee5.com",
+    "icon": "Film",
+    "color": "#7D3C98"
+  },
+  {
+    "id": "mxplayer",
+    "name": "MX Player",
+    "url": "https://www.mxplayer.in",
+    "icon": "Play",
+    "color": "#1E90FF"
+  },
+  {
+    "id": "spotify",
+    "name": "Spotify",
+    "url": "https://open.spotify.com",
+    "icon": "Music",
+    "color": "#1DB954"
+  },
+  {
+    "id": "instagram",
+    "name": "Instagram",
+    "url": "https://www.instagram.com",
+    "icon": "Instagram",
+    "color": "#E1306C"
+  },
+  {
+    "id": "facebook",
+    "name": "Facebook",
+    "url": "https://www.facebook.com",
+    "icon": "Facebook",
+    "color": "#1877F2"
+  },
+  {
+    "id": "x",
+    "name": "X",
+    "url": "https://x.com",
+    "icon": "MessageCircle",
+    "color": "#000000"
+  },
+  {
+    "id": "reddit",
+    "name": "Reddit",
+    "url": "https://www.reddit.com",
+    "icon": "MessageSquare",
+    "color": "#FF4500"
+  },
+  {
+    "id": "gmail",
+    "name": "Gmail",
+    "url": "https://mail.google.com",
+    "icon": "Mail",
+    "color": "#EA4335"
+  },
+  {
+    "id": "drive",
+    "name": "Google Drive",
+    "url": "https://drive.google.com",
+    "icon": "Folder",
+    "color": "#0F9D58"
+  },
+  {
+    "id": "photos",
+    "name": "Google Photos",
+    "url": "https://photos.google.com",
+    "icon": "Images",
+    "color": "#4285F4"
+  },
+  {
+    "id": "maps",
+    "name": "Google Maps",
+    "url": "https://maps.google.com",
+    "icon": "MapPinned",
+    "color": "#34A853"
+  },
+  {
+    "id": "weather",
+    "name": "Weather",
+    "url": "https://weather.com",
+    "icon": "CloudSun",
+    "color": "#4A90E2"
+  },
+  {
+    "id": "browser",
+    "name": "Browser",
+    "url": "https://www.google.com",
+    "icon": "Globe",
+    "color": "#4285F4"
+  }
+]

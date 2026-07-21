@@ -1,0 +1,55 @@
+body{
+
+background:#000;
+
+margin:0;
+
+display:flex;
+
+justify-content:center;
+
+align-items:center;
+
+height:100vh;
+
+color:white;
+
+font-family:sans-serif;
+
+}
+
+.container{
+
+text-align:center;
+
+}
+
+.loader{
+
+width:80px;
+
+height:80px;
+
+border-radius:50%;
+
+border:8px solid #333;
+
+border-top:8px solid white;
+
+animation:spin 1s linear infinite;
+
+margin:auto;
+
+margin-top:20px;
+
+}
+
+@keyframes spin{
+
+100%{
+
+transform:rotate(360deg);
+
+}
+
+}
