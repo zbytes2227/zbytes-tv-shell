@@ -5,7 +5,7 @@
   "main": "electron/main/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "electron --kiosk --disable-infobars --no-first-run --start-maximized ."
+    "start": "electron ."
   },
   "keywords": [],
   "author": "",
